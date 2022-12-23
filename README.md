@@ -28,7 +28,7 @@ The Data Analytics Association (DAA) is open to all years and majors at Chapman.
 
 ### Tyler Kay - Technical Vice President
 
-<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/tyler.jpg" width="125" height="115">
+<img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/tyler.jpg" height="115">
 
 Tyler is a junior, majoring in Computer Science and minoring in Information Security and Policy. He strives to work in the software engineer field in the future. In his free time, he enjoys going on hikes and listening to music.
 
