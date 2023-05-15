@@ -72,7 +72,7 @@ Tyler is a junior, majoring in Computer Science and minoring in Information Secu
 
 <img align="left" src="https://github.com/ChapmanDAA/Welcome-Page/blob/master/src/imgs/annika.jpeg" height="115">
 
-{Description}
+Annika is a senior with a Data Analytics major and an English minor. They are currently working towards a cybersecurity certification and seeking a full-time job as their remote data analytics internship comes to an end. You can catch them reading a (hopefully) good book or fueling their coffee addiction in their down time.
 
 </br>
 </br>
